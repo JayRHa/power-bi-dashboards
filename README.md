@@ -1,3 +1,18 @@
+<!-- repo-standard:start -->
+# Power BI Dashboards
+
+Power BI dashboard templates for Microsoft Intune endpoint analytics and device management reporting.
+
+| Area | Stack | Visibility |
+| --- | --- | --- |
+| Reporting | Power BI | Public |
+
+**Repository:** `JayRHa/power-bi-dashboards`  
+**Topics:** `power-bi`, `dashboards`, `reporting`, `microsoft-intune`, `endpoint-analytics`
+<!-- repo-standard:end -->
+
+---
+
 # PowerBi Dashboards
 
 [Check out my blog](https://jannikreinhard.com)

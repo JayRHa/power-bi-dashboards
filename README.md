@@ -1,34 +1,34 @@
 <!-- unified-readme:start -->
-    <div align="center">
+<div align="center">
 
-    # Power BI Dashboards
+# Power BI Dashboards
 
-    **Power BI dashboard templates for Microsoft Intune endpoint analytics and device management reporting.**
+**Power BI dashboard templates for Microsoft Intune endpoint analytics and device management reporting.**
 
-    Measure. Visualize. Improve.
+Measure. Visualize. Improve.
 
-    [![GitHub stars](https://img.shields.io/github/stars/JayRHa/PowerBIDashboards?style=for-the-badge&logo=github&color=f4c542)](https://github.com/JayRHa/PowerBIDashboards/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/JayRHa/PowerBIDashboards?style=for-the-badge&logo=github&color=f4c542)](https://github.com/JayRHa/PowerBIDashboards/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/JayRHa/PowerBIDashboards?style=for-the-badge&logo=github&color=4078c0)](https://github.com/JayRHa/PowerBIDashboards/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/JayRHa/PowerBIDashboards?style=for-the-badge&logo=github&color=d73a4a)](https://github.com/JayRHa/PowerBIDashboards/issues)
 [![Contributors](https://img.shields.io/github/contributors/JayRHa/PowerBIDashboards?style=for-the-badge&logo=github&color=28a745)](https://github.com/JayRHa/PowerBIDashboards/graphs/contributors)
 
-    ---
+---
 
-    `Endpoint Management` | `Dashboards` | `Public` | `Maintained`
+`Endpoint Management` | `Dashboards` | `Public` | `Maintained`
 
-    </div>
+</div>
 
-    ## What is this?
+## What is this?
 
-    This repository contains power BI dashboard templates for Microsoft Intune endpoint analytics and device management reporting.
+This repository provides power BI dashboard templates for Microsoft Intune endpoint analytics and device management reporting.
 
-    > Browse the documentation below for setup notes, usage details, and project-specific context.
+> Browse the documentation below for setup notes, usage details, and project-specific context.
 
-    ---
+---
 
-    ## Quick Start
+## Quick Start
 
-    1. Review the project documentation below.
+1. Review the project documentation below.
 2. Clone the repository:
 
    ```bash
@@ -37,9 +37,8 @@
 
 3. Follow the setup, deployment, or usage notes in the preserved documentation section.
 
-    ---
-    <!-- unified-readme:end -->
-
+---
+<!-- unified-readme:end -->
 
 ## Existing Documentation
 

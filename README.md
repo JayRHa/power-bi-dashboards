@@ -13,15 +13,6 @@ Measure. Visualize. Improve.
 [![Contributors](https://img.shields.io/github/contributors/JayRHa/PowerBIDashboards?style=for-the-badge&logo=github&color=28a745)](https://github.com/JayRHa/PowerBIDashboards/graphs/contributors)
 
 [Check out my blog](https://jannikreinhard.com)
-<p align="left">
-  <a href="https://x.com/jannik_reinhard">
-    <img src="https://img.shields.io/twitter/follow/jannik_reinhard?style=social" target="_blank" />
-  </a>
-    <a href="https://github.com/JayRHa">
-    <img src="https://img.shields.io/github/followers/JayRHa?style=social" target="_blank" />
-  </a>
-</p>
-
 <p>
   <a href="https://jannikreinhard.com/">Blog</a> ·
   <a href="https://www.linkedin.com/in/jannik-r/">LinkedIn</a> ·

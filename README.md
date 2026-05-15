@@ -20,7 +20,7 @@ Measure. Visualize. Improve.
 
 ## What is this?
 
-This repository provides power BI dashboard templates for Microsoft Intune endpoint analytics and device management reporting.
+Power BI dashboard templates for Microsoft Intune endpoint analytics and device management reporting.
 
 > Browse the documentation below for setup notes, usage details, and project-specific context.
 

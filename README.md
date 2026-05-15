@@ -1,7 +1,7 @@
 <!-- unified-readme:start -->
 <div align="center">
 
-# Power BI Dashboards
+# PowerBi Dashboards
 
 **Power BI dashboard templates for Microsoft Intune endpoint analytics and device management reporting.**
 
@@ -12,6 +12,16 @@ Measure. Visualize. Improve.
 [![GitHub issues](https://img.shields.io/github/issues/JayRHa/PowerBIDashboards?style=for-the-badge&logo=github&color=d73a4a)](https://github.com/JayRHa/PowerBIDashboards/issues)
 [![Contributors](https://img.shields.io/github/contributors/JayRHa/PowerBIDashboards?style=for-the-badge&logo=github&color=28a745)](https://github.com/JayRHa/PowerBIDashboards/graphs/contributors)
 
+[Check out my blog](https://jannikreinhard.com)
+<p align="left">
+  <a href="https://twitter.com/jannik_reinhard">
+    <img src="https://img.shields.io/twitter/follow/jannik_reinhard?style=social" target="_blank" />
+  </a>
+    <a href="https://github.com/JayRHa">
+    <img src="https://img.shields.io/github/followers/JayRHa?style=social" target="_blank" />
+  </a>
+</p>
+
 ---
 
 `Reporting` | `Dashboards` | `Public` | `Maintained`
@@ -20,7 +30,7 @@ Measure. Visualize. Improve.
 
 ## What is this?
 
-Power BI Dashboards turns endpoint or operational data into dashboards and reporting views for analysis and decision making.
+PowerBi Dashboards turns endpoint or operational data into dashboards and reporting views for analysis and decision making.
 
 ## Project Context
 
@@ -50,28 +60,10 @@ flowchart LR
    git clone https://github.com/JayRHa/PowerBIDashboards.git
    ```
 
-3. Continue with the project-specific documentation in the next section.
+3. Continue with the setup, usage, or workflow sections below.
 
 ---
 <!-- unified-readme:end -->
-
-<!-- project-documentation:start -->
-## Project Documentation
-
-The sections below contain the repository-specific setup, usage, and reference material for this project.
-
-# PowerBi Dashboards
-
-[Check out my blog](https://jannikreinhard.com)
-
-<p align="left">
-  <a href="https://twitter.com/jannik_reinhard">
-    <img src="https://img.shields.io/twitter/follow/jannik_reinhard?style=social" target="_blank" />
-  </a>
-    <a href="https://github.com/JayRHa">
-    <img src="https://img.shields.io/github/followers/JayRHa?style=social" target="_blank" />
-  </a>
-</p>
 
 ## Intune Reporting Dashboard
 ![IntuneDashboard](https://github.com/JayRHa/PowerBIDashboards/blob/main/IntuneDashboard.png)

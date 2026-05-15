@@ -14,33 +14,51 @@ Measure. Visualize. Improve.
 
 ---
 
-`Endpoint Management` | `Dashboards` | `Public` | `Maintained`
+`Reporting` | `Dashboards` | `Public` | `Maintained`
 
 </div>
 
 ## What is this?
 
-Power BI dashboard templates for Microsoft Intune endpoint analytics and device management reporting.
+Power BI Dashboards turns endpoint or operational data into dashboards and reporting views for analysis and decision making.
 
-> Browse the documentation below for setup notes, usage details, and project-specific context.
+## Project Context
 
----
+- Use it when raw endpoint data needs to become a readable report or dashboard.
+- The flow depends on clean data shaping before visuals are useful.
+- This repository is maintained as a practical project and reference asset.
+
+## How It Works
+
+Data is exported or connected, transformed into a report model, visualized in dashboards, then reviewed for trends, exceptions, and follow-up actions.
+
+```mermaid
+flowchart LR
+    Data[Endpoint or service data] --> Transform[Transform and model]
+    Transform --> Dashboard[Dashboard visuals]
+    Dashboard --> Insights[Insights]
+    Insights --> Actions[Operational actions]
+    Actions --> Data
+```
 
 ## Quick Start
 
-1. Review the project documentation below.
+1. Review the project context and workflow below.
 2. Clone the repository:
 
    ```bash
    git clone https://github.com/JayRHa/PowerBIDashboards.git
    ```
 
-3. Follow the setup, deployment, or usage notes in the preserved documentation section.
+3. Continue with the project-specific documentation in the next section.
 
 ---
 <!-- unified-readme:end -->
 
-## Existing Documentation
+<!-- project-documentation:start -->
+## Project Documentation
+
+The sections below contain the repository-specific setup, usage, and reference material for this project.
 
 # PowerBi Dashboards
 

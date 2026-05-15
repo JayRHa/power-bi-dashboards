@@ -1,7 +1,7 @@
 <!-- unified-readme:start -->
 <div align="center">
 
-# PowerBi Dashboards
+# Power BI Dashboards
 
 **Power BI dashboard templates for Microsoft Intune endpoint analytics and device management reporting.**
 
@@ -30,7 +30,7 @@ Measure. Visualize. Improve.
 
 ## What is this?
 
-PowerBi Dashboards turns endpoint or operational data into dashboards and reporting views for analysis and decision making.
+Power BI Dashboards turns endpoint or operational data into dashboards and reporting views for analysis and decision making.
 
 ## Project Context
 

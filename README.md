@@ -63,4 +63,4 @@ flowchart LR
 <!-- unified-readme:end -->
 
 ## Intune Reporting Dashboard
-![IntuneDashboard](https://github.com/JayRHa/PowerBIDashboards/blob/main/IntuneDashboard.png)
+![IntuneDashboard](https://github.com/JayRHa/PowerBIDashboards/blob/main/assets/IntuneDashboard.png)
